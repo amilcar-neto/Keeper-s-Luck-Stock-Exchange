@@ -26,5 +26,8 @@
             "path": "lang/pt-BR.json"
         }
     ],
-    "authors": [{ "name": "amilcar", "url": "https://github.com/amilcar-neto"}]
+    "authors": [{ "name": "amilcar", "url": "https://github.com/amilcar-neto"}],
+    "url": "https://github.com/amilcar-neto/Keeper-s-Luck-Stock-Exchange",
+    "manifest": "https://github.com/amilcar-neto/Keeper-s-Luck-Stock-Exchange/releases/latest/download/module.json",
+    "download": "https://github.com/amilcar-neto/Keeper-s-Luck-Stock-Exchange/releases/download/1.0.0/module.zip"
 }
