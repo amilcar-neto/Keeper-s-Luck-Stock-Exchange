@@ -1,0 +1,16 @@
+{
+    "lse.luckBank.name": "Banco de Sorte",
+    "lse.luckBank.hint": "Saldo atual de Sorte no banco.",
+    "lse.chatMessage.name": "Recibos das Transações",
+    "lse.chatMessage.hint": "Envia recibos de todas as movimentações do Banco de Sorte no chat para o GM.",
+
+    "lse.chat.title": "BANCO DE SORTE ATUALIZADO.",
+    "lse.chat.configSet": "O Guardião ajustou o saldo para {saldoNovo} {unit} de Sorte.",
+    "lse.chat.character": "{name} depositou {delta} {unit} de Sorte no banco.",
+    "lse.chat.npc": "{name} sacou {delta} {unit} de Sorte do banco.",
+    "lse.chat.balance": "Saldo anterior: {anterior} | Saldo atual: {atual}",
+
+    "lse.unit.singular": "ponto",
+    "lse.unit.plural": "pontos"
+
+}
