@@ -1,0 +1,16 @@
+{
+    "lse.luckBank.name": "Luck Reserve",
+    "lse.luckBank.hint": "Current Luck available in the reserve.",
+    "lse.chatMessage.name": "Transaction Receipts",
+    "lse.chatMessage.hint": "Send receipts of all reserve movements to the GM chat.",
+
+    "lse.chat.title": "LUCK RESERVE UPDATED.",
+    "lse.chat.configSet": "The Keeper set the reserve to {saldoNovo} Luck {unit}.",
+    "lse.chat.character": "{name} deposited {delta} Luck {unit} into the reserve.",
+    "lse.chat.npc": "{name} withdrew {delta} Luck {unit} from the reserve.",
+    "lse.chat.balance": "Previous balance: {anterior} | Current balance: {atual}",
+
+    "lse.unit.singular": "point",
+    "lse.unit.plural": "points"
+
+}
