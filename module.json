@@ -1,0 +1,30 @@
+{
+    "id": "luck-stockExchange",
+    "title": "Keeper’s Luck Stock Exchange",
+    "description": "Trade luck. Fund bad decisions. A Keeper’s Luck reserve for Pulp Cthulhu. Player characters fund it by spending Luck, NPCs draw from it when they spend Luck.",
+    "version": "1.0.0",
+    "compatibility": { "minimum": "14", "verified": "14" },
+    "esmodules": ["main.js"],
+    "socket": true,
+    "relationships": {
+        "requires": [
+            {
+                "id": "socketlib",
+                "type": "module"
+            }
+        ]
+    },
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "pt-BR",
+            "name": "Português (Brasil)",
+            "path": "lang/pt-BR.json"
+        }
+    ],
+    "authors": [{ "name": "amilcar", "url": "https://github.com/amilcar-neto"}]
+}
