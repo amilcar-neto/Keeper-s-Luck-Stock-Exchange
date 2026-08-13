@@ -1,6 +1,6 @@
 # Keeper's Luck Stock Exchange
 
-##English version:
+## English version:
 
 Profit from the Luck your investigators burn, and fund your NPCs' rolls with it.
 
@@ -49,7 +49,8 @@ English and Português (Brasil).
 This is my first project. All the code was written entirely by me, with AI only assisting with research, my JavaScript learning, and translating text — such as this README — into English. 0% vibecoding.
 
 ---
-##Versão em Português do Brasil:
+## Versão em Português do Brasil:
+
 Lucre com a sorte gasta pelos investigadores e financie rolagens para NPCs.
 
 Regra da casa de Sorte para **Cthulhu Pulp**. A sorte usada pelos jogadores é acumulada nas reservas do banco do Guardião, que pode ser usada em rolagens de todos os NPCs do jogo.
