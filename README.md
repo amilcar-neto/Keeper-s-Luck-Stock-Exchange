@@ -1,4 +1,5 @@
 # Keeper's Luck Stock Exchange
+
 ##English version:
 
 Profit from the Luck your investigators burn, and fund your NPCs' rolls with it.
