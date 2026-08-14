@@ -4,7 +4,7 @@
 
 Profit from the Luck your investigators burn, and fund your NPCs' rolls with it.
 
-A shared-Luck homebrew rule for **Pulp Cthulhu**. The Luck spent by players piles up in the Keeper's bank, which can then be spent on rolls for every NPC in the game.
+Implements **Pulp Cthulhu's** optional alternative NPC Luck rule for NPCs. The Luck spent by players funds the NPCs Luck reserve, which they draw from when they spend Luck.
 
 ## How it works
 
@@ -53,7 +53,7 @@ This is my first project. All the code was written entirely by me, with AI only 
 
 Lucre com a sorte gasta pelos investigadores e financie rolagens para NPCs.
 
-Regra da casa de Sorte para **Cthulhu Pulp**. A sorte usada pelos jogadores é acumulada nas reservas do banco do Guardião, que pode ser usada em rolagens de todos os NPCs do jogo.
+Implementa a regra opcional de Sorte Alternativa para PNJs do **Pulp Cthulhu**. A Sorte gasta pelos jogadores alimenta a reserva de Sorte dos PNJs, que sacam dela quando gastam Sorte.
 
 ## Como funciona
 
