@@ -4,7 +4,7 @@
 
 Profit from the Luck your investigators burn, and fund your NPCs' rolls with it.
 
-Implements **Pulp Cthulhu's** optional alternative NPC Luck rule for NPCs. The Luck spent by players funds the NPCs Luck reserve, which they draw from when they spend Luck.
+Implements **Pulp Cthulhu's** optional Alternative NPC Luck rule for NPCs. The Luck spent by players funds the NPCs Luck reserve, which they draw from when they spend Luck.
 
 ## How it works
 
