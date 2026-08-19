@@ -29,6 +29,10 @@ In Foundry's setup screen, go to **Add-on Modules → Install Module**, and past
 
 https://github.com/amilcar-neto/Keeper-s-Luck-Stock-Exchange/releases/latest/download/module.json
 
+You can also find the module on FoundryVTT’s official package list:
+
+https://foundryvtt.com/packages/luck-stockExchange/
+
 **socketlib** must be installed and enabled.
 
 ## Settings
@@ -77,6 +81,10 @@ Funciona tanto com alterações da ficha quanto por rolagens no chat, seja pela 
 Na tela de configuração do Foundry, vá em **Módulos Adicionais → Instalar Módulo**, e cole esta URL de manifesto:
 
 https://github.com/amilcar-neto/Keeper-s-Luck-Stock-Exchange/releases/latest/download/module.json
+
+Você também encontra o módulo na lista oficial do FoundryVTT:
+
+https://foundryvtt.com/packages/luck-stockExchange/
 
 
 O **socketlib** precisa estar instalado e ativado.
