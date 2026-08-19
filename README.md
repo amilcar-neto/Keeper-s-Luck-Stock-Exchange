@@ -37,7 +37,7 @@ https://foundryvtt.com/packages/luck-stockExchange/
 
 ## Settings
 
-- **Luck Bank** — the current balance. The Keeper can set it manually at any time; all NPCs re-sync to the new value.
+- **Luck Reserve** — the current balance. The Keeper can set it manually at any time; all NPCs re-sync to the new value.
 - **Transaction Receipts** — turns the chat receipts on or off.
 
 ## Languages
